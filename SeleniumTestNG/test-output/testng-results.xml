@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-16T14:40:14 IST" name="Suite" finished-at="2023-02-16T14:40:53 IST" duration-ms="39760">
+    <groups>
+    </groups>
+    <test started-at="2023-02-16T14:40:14 IST" name="Test" finished-at="2023-02-16T14:40:53 IST" duration-ms="39760">
+      <class name="DemoTestNG.TestNGSecond">
+        <test-method signature="testwikipedia()[pri:0, instance:DemoTestNG.TestNGSecond@3e11f9e9]" started-at="2023-02-16T14:40:14 IST" name="testwikipedia" finished-at="2023-02-16T14:40:28 IST" duration-ms="14565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testwikipedia -->
+      </class> <!-- DemoTestNG.TestNGSecond -->
+      <class name="DemoTestNG.TestNGfirst">
+        <test-method signature="testImdb()[pri:0, instance:DemoTestNG.TestNGfirst@82de64a]" started-at="2023-02-16T14:40:28 IST" name="testImdb" finished-at="2023-02-16T14:40:53 IST" duration-ms="25110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testImdb -->
+      </class> <!-- DemoTestNG.TestNGfirst -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
