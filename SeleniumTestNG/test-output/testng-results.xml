@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-02-16T16:24:07 IST" name="Suite" finished-at="2023-02-16T16:24:46 IST" duration-ms="39411">
+  <suite started-at="2023-02-18T11:40:18 IST" name="Suite" finished-at="2023-02-18T11:41:44 IST" duration-ms="85558">
     <groups>
     </groups>
-    <test started-at="2023-02-16T16:24:07 IST" name="Test" finished-at="2023-02-16T16:24:46 IST" duration-ms="39411">
+    <test started-at="2023-02-18T11:40:18 IST" name="Test" finished-at="2023-02-18T11:41:44 IST" duration-ms="85558">
       <class name="DemoTestNG.TestNGSecond">
-        <test-method signature="testwikipedia()[pri:0, instance:DemoTestNG.TestNGSecond@14555e0a]" started-at="2023-02-16T16:24:07 IST" name="testwikipedia" finished-at="2023-02-16T16:24:26 IST" duration-ms="19037" status="PASS">
+        <test-method signature="testImdb()[pri:0, instance:DemoTestNG.TestNGSecond@14555e0a]" started-at="2023-02-18T11:40:18 IST" name="testImdb" finished-at="2023-02-18T11:40:45 IST" duration-ms="26817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testImdb -->
+        <test-method signature="testwikipedia()[pri:1, instance:DemoTestNG.TestNGSecond@14555e0a]" started-at="2023-02-18T11:40:45 IST" name="testwikipedia" finished-at="2023-02-18T11:40:55 IST" duration-ms="10305" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testwikipedia -->
       </class> <!-- DemoTestNG.TestNGSecond -->
       <class name="DemoTestNG.TestNGfirst">
-        <test-method signature="testImdb()[pri:0, instance:DemoTestNG.TestNGfirst@bd4dc25]" started-at="2023-02-16T16:24:26 IST" name="testImdb" finished-at="2023-02-16T16:24:46 IST" duration-ms="20298" status="PASS">
+        <test-method signature="testwikipedia()[pri:-1, instance:DemoTestNG.TestNGfirst@bd4dc25]" started-at="2023-02-18T11:40:55 IST" name="testwikipedia" finished-at="2023-02-18T11:41:21 IST" duration-ms="25378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testwikipedia -->
+        <test-method signature="testImdb()[pri:0, instance:DemoTestNG.TestNGfirst@bd4dc25]" started-at="2023-02-18T11:41:21 IST" name="testImdb" finished-at="2023-02-18T11:41:44 IST" duration-ms="22949" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testImdb -->
